@@ -1,4 +1,4 @@
-<h1 align='center'>Hola! Soy Marc, desarrollador junior frontend. <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZmMDQ1OTNiNGQ1NWMyYzM3OWU5ZDFkZDgyY2YyNGY2OWM5ZTIwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tVoClr6EKQTGWbEHpP/giphy.gif' width='60' /></h1>
+<h1 align='center'>Hola! Soy Marc, desarrollador junior frontend. <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZmMDQ1OTNiNGQ1NWMyYzM3OWU5ZDFkZDgyY2YyNGY2OWM5ZTIwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tVoClr6EKQTGWbEHpP/giphy.gif' width='90' /></h1>
 
 <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZhZDM1N2EzNzcyZDhlZThkN2VlYTU1NTRjZDBmOTkzOWRiMjIyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QQkyLVLAbQRKU/giphy-downsized-large.gif" width='240' alt='Hello gif' />
 
