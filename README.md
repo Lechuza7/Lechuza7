@@ -4,6 +4,21 @@
 
 <p align='center'></p>
 
+##ACERCA DE MÍ
+
+<p>Brevemente:
+- Me he formado en Ironhack cursando el <a href='https://www.ironhack.com/es/es/desarrollo-web/online?utm_campaign=RMTEU_Spain_Tier2_Global_Search_Brand_ES&utm_source=google&utm_content=search-brand&utm_medium=cpc&utm_term=ironhack&gad=1&gclid=CjwKCAjwgqejBhBAEiwAuWHioMDEctynyuEGarcAAgKoYuUs7c-l3lPxsqxzbCGIBF6ObyrpS0UGIxoC_2sQAvD_BwE'>bootcamp de Full Stack Web Development</a> en modalidad remota.<br> 
+- Fué una experiencia increíble, descubrí mi pasión por la programación, y busco la oportunidad de poder aplicarla profesionalmente.<br>
+- Tras finaliza el bootcamp, sigo estudiando y aprendiendo por mi cuenta intentando mejorar día a día.<br>
+- Actualmente estoy profundizando en React y Javascript, y empezaré a trastear con testing y Typescript.<br>
+- Soy muy responsable, organizado y me encantan los retos intelectuales e implicarme en lo que hago.<br>
+- Soy padre, la aventura más bonita de mi vida.<br>
+- Me apasiona la música y la literatura.<br>
+- Me encanta hacer senderismo y soy muy aficionado a los juegos de mesa modernos.</p>
+
+
+##CONTACTO
+
 ##MI STACK TECNOLÓGICO
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
