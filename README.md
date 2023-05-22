@@ -19,14 +19,30 @@
 
 ## CONTACTO
 
-<pSi quieres contactar conmigo o conocer más de mi perfil profesional, aquí tienes varios canales disponibles:<br>
-  <a href='https://lechuza7-my-portfolio.netlify.app/'>Portfolio</a>
-  <a href='https://www.linkedin.com/in/marccuestacarabasa/'>Linkedin</a>
-  <a href='https://drive.google.com/file/d/1F6KMXFT-pL1pqOuLmx0jLMJWA9UHNhOw/view?usp=sharing'>Currículum Vitae</a>
+<p>Si quieres contactar conmigo o conocer más de mi perfil profesional, aquí tienes varios canales disponibles:<br>
+  <a href='https://lechuza7-my-portfolio.netlify.app/'>Portfolio</a><br>
+  <a href='https://www.linkedin.com/in/marccuestacarabasa/'>Linkedin</a><br>
+  <a href='https://drive.google.com/file/d/1F6KMXFT-pL1pqOuLmx0jLMJWA9UHNhOw/view?usp=sharing'>Currículum Vitae</a><br>
   <a href='mailto:marc.cuestacarabasa@gmail.com'>Email</a>
 </p>
 
 ## PROYECTOS FINALIZADOS
+
+<div><img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1671560031/portfolio/frogger-cover_mgtd0i.png" /> <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1673778206/portfolio/furancho-cover_rti9qk.png" /></div>
+
+<p>Estos son los proyectos más relevantes que he realizado hasta ahora:<br>
+- [Project Frogger]((https://lechuza7.github.io/module1-project-frogger) -- [GitHub](https://github.com/Lechuza7/module1-project-frogger)
+
+  Project Frogger es una versión del clásico videojuego Frogger tematizado con sprites de Star Wars, en el que deberás conseguir capturar a todos los líderes rebeldes sin morir en el intento. Fué el primer proyecto que     desarrollé, usando Canvas.
+
+- [Furancho Project](https://furancho-project.vercel.app/furanchos) -- [GitHub](https://github.com/furancho-project/furancho-project)
+
+  
+  
+- [Xan Campos Website](https://github.com/TheOfficeHackers/xan-campos-website) -- [GitHub](https://github.com/TheOfficeHackers/xan-campos-website)
+  
+  
+</p>
 
 ## MI STACK TECNOLÓGICO
 
@@ -72,6 +88,11 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" /></p>
+
+## GITHUB STATS 
+
+![Lechuza7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuza7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Lechuza7's Stats](https://github-readme-stats.vercel.app/api?username=Lechuza7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
 <br>
 <h3 align="center">Muchas gracias por visitar mi perfil!</h3>
