@@ -1,7 +1,7 @@
-<h1 align='center'>Hola! Soy Marc, desarrollador junior frontend. <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZmMDQ1OTNiNGQ1NWMyYzM3OWU5ZDFkZDgyY2YyNGY2OWM5ZTIwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tVoClr6EKQTGWbEHpP/giphy.gif' width='90' /></h1>
+<h1 align='center'>Hola! Soy Marc, desarrollador frontend. <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZmMDQ1OTNiNGQ1NWMyYzM3OWU5ZDFkZDgyY2YyNGY2OWM5ZTIwMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/tVoClr6EKQTGWbEHpP/giphy.gif' width='90' /></h1>
 <br>
-<br>
-<p align='center'><img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZhZDM1N2EzNzcyZDhlZThkN2VlYTU1NTRjZDBmOTkzOWRiMjIyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QQkyLVLAbQRKU/giphy-downsized-large.gif" width='240' alt='Hello gif' /></p>
+<br> 
+<p align='center'><img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZhZDM1N2EzNzcyZDhlZThkN2VlYTU1NTRjZDBmOTkzOWRiMjIyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QQkyLVLAbQRKU/giphy-downsized-large.gif" width='260' alt='Hello' /></p>
 
 <p align='center'></p>
 
@@ -28,21 +28,15 @@
 
 ## PROYECTOS FINALIZADOS
 
-<div><img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1671560031/portfolio/frogger-cover_mgtd0i.png" /> <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1673778206/portfolio/furancho-cover_rti9qk.png" /></div>
-
-<p>Estos son los proyectos más relevantes que he realizado hasta ahora:<br>
-- [Project Frogger]((https://lechuza7.github.io/module1-project-frogger) -- [GitHub](https://github.com/Lechuza7/module1-project-frogger)
-
-  Project Frogger es una versión del clásico videojuego Frogger tematizado con sprites de Star Wars, en el que deberás conseguir capturar a todos los líderes rebeldes sin morir en el intento. Fué el primer proyecto que     desarrollé, usando Canvas.
-
-- [Furancho Project](https://furancho-project.vercel.app/furanchos) -- [GitHub](https://github.com/furancho-project/furancho-project)
-
-  
-  
-- [Xan Campos Website](https://github.com/TheOfficeHackers/xan-campos-website) -- [GitHub](https://github.com/TheOfficeHackers/xan-campos-website)
-  
-  
-</p>
+<p>Estos son los proyectos más relevantes que he realizado hasta ahora:</p><br>
+<div>
+  <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1671560031/portfolio/frogger-cover_mgtd0i.png" alt="Project Frogger" /><br>
+  <p><a href="https://lechuza7.github.io/module1-project-frogger">Project Frogger</a> es una versión del clásico videojuego Frogger tematizado con sprites de Star Wars, en el que deberás conseguir capturar a todos los líderes rebeldes sin morir en el intento. Fué el primer proyecto     que      desarrollé, usando Canvas. <a href="https://github.com/Lechuza7/module1-project-frogger">(repositorio de Github)</a></p>
+  <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1673778206/portfolio/furancho-cover_rti9qk.png" alt="Furancho Project" /><br>
+  <p><a href="https://furancho-project.vercel.app/furanchos">Furancho Project</a> es mi segundo proyecto, creado en pareja. Se trata de un buscador de <a href="https://es.wikipedia.org/wiki/Furancho">furanchos</a> con integración de Google Maps y geolocalización, y registro, sesión y perfil de usuario. <a href="https://github.com/furancho-project/furancho-project">(repositorio de Github)</a></p>
+  <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1673778662/portfolio/xancampos-cover_xzo7cn.png" alt="Xan Campos Website" /><br>
+  <p><a href="https://github.com/TheOfficeHackers/xan-campos-website">Xan Campos Website</a> es un proyecto de web personal del pianista gallego de jazz Xan Campos, creado en pareja. Integra distintas vistas con toda la información del artista, así como el API de Spotify, y un panel oculto de gestión de admin. <a href="https://github.com/TheOfficeHackers/xan-campos-website">(repositorio de Github)</a></p>
+</div>
 
 ## MI STACK TECNOLÓGICO
 
