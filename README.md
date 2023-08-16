@@ -39,7 +39,7 @@
 </div>
 
 
-<p> Otros proyectos más sencillos realizados para no oxidarme e incorporar conceptos y techs nuevas:</p><br>
+<p> Otros proyectos más sencillos realizados para no oxidarme e incorporar conceptos y techs nuevas:</p>
 <div> 
   <a href="https://l7-weather-widget.netlify.app/">Weather Widget</a><a href="https://github.com/Lechuza7/weather-widget">(repositorio de Github)</a>
 </div>
