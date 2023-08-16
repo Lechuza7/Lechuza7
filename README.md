@@ -37,7 +37,7 @@
   <img width="200" src="https://res.cloudinary.com/dyl3cklgp/image/upload/v1673778662/portfolio/xancampos-cover_xzo7cn.png" alt="Xan Campos Website" /><br>
   <p><a href="https://github.com/TheOfficeHackers/xan-campos-website">Xan Campos Website</a> es un proyecto de web personal del pianista gallego de jazz Xan Campos, creado en pareja. Integra distintas vistas con toda la información del artista, así como el API de Spotify, y un panel oculto de gestión de admin. <a href="https://github.com/TheOfficeHackers/xan-campos-website">(repositorio de Github)</a></p>
 </div>
-
+<br>
 
 <p> Otros proyectos más sencillos realizados para no oxidarme e incorporar conceptos y techs nuevas:</p>
 <div> 
